@@ -1,3 +1,5 @@
+/*Esta es una hoja de estilos para dispositivos tablets.*/
+
 .product-card-container {
     display: flex;
     flex-wrap: wrap;
